@@ -1,0 +1,17 @@
+/**:
+  ros__parameters:
+    # Serial ports
+    roboclaw_port: "/dev/ttyACM0"
+    roboclaw_baud: 115200
+    sparkfun_port: "/dev/ttyUSB0"
+    sparkfun_baud: 115200
+    sensor_port: "/dev/ttyACM1"
+    sensor_baud: 115200
+
+    # Control loop
+    publish_rate_hz: 50.0
+
+    # Encoder / gear parameters
+    # Update encoder_cpr to match your actual motor encoder specification.
+    encoder_cpr: 4096
+    gear_ratio: 1.0
