@@ -7,7 +7,7 @@ from launch_ros.parameter_descriptions import ParameterValue
 
 
 def generate_launch_description():
-    package_name = 'my_package'
+    package_name = 'arm_core'
     pkg_dir = get_package_share_directory(package_name)
 
     xacro_file = os.path.join(pkg_dir, 'urdf', 'arm.xacro')

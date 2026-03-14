@@ -1,0 +1,6 @@
+/**:
+  ros__parameters:
+    publish_rate_hz: 50.0
+    # First-order lag time constant in seconds.
+    # Smaller values make the mock joints respond faster.
+    time_constant: 0.1

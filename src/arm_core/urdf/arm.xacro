@@ -17,7 +17,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 0 0" />
       <geometry>
-        <mesh filename="package://my_package/meshes/base_link.STL" />
+        <mesh filename="package://arm_core/meshes/base_link.STL" />
       </geometry>
       <material name="">
         <color rgba="0.341176470588235 0.666666666666667 1 1" />
@@ -26,7 +26,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 0 0" />
       <geometry>
-        <mesh filename="package://my_package/meshes/base_link.STL" />
+        <mesh filename="package://arm_core/meshes/base_link.STL" />
       </geometry>
     </collision>
   </link>
@@ -47,7 +47,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 0 0" />
       <geometry>
-        <mesh filename="package://my_package/meshes/bracket_link.STL" />
+        <mesh filename="package://arm_core/meshes/bracket_link.STL" />
       </geometry>
       <material name="">
         <color rgba="0.89804 0.91765 0.92941 1" />
@@ -56,7 +56,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 0 0" />
       <geometry>
-        <mesh filename="package://my_package/meshes/bracket_link.STL" />
+        <mesh filename="package://arm_core/meshes/bracket_link.STL" />
       </geometry>
     </collision>
   </link>
@@ -86,7 +86,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 0 0" />
       <geometry>
-        <mesh filename="package://my_package/meshes/humerus_link.STL" />
+        <mesh filename="package://arm_core/meshes/humerus_link.STL" />
       </geometry>
       <material name="">
         <color rgba="0.89804 0.91765 0.92941 1" />
@@ -95,7 +95,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 0 0" />
       <geometry>
-        <mesh filename="package://my_package/meshes/humerus_link.STL" />
+        <mesh filename="package://arm_core/meshes/humerus_link.STL" />
       </geometry>
     </collision>
   </link>
@@ -125,7 +125,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 0 0" />
       <geometry>
-        <mesh filename="package://my_package/meshes/forearm_link.STL" />
+        <mesh filename="package://arm_core/meshes/forearm_link.STL" />
       </geometry>
       <material name="">
         <color rgba="0.89804 0.91765 0.92941 1" />
@@ -134,7 +134,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 0 0" />
       <geometry>
-        <mesh filename="package://my_package/meshes/forearm_link.STL" />
+        <mesh filename="package://arm_core/meshes/forearm_link.STL" />
       </geometry>
     </collision>
   </link>
@@ -164,7 +164,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 0 0" />
       <geometry>
-        <mesh filename="package://my_package/meshes/ubracket_link.STL" />
+        <mesh filename="package://arm_core/meshes/ubracket_link.STL" />
       </geometry>
       <material name="">
         <color rgba="0.79216 0.81961 0.93333 1" />
@@ -173,7 +173,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 0 0" />
       <geometry>
-        <mesh filename="package://my_package/meshes/ubracket_link.STL" />
+        <mesh filename="package://arm_core/meshes/ubracket_link.STL" />
       </geometry>
     </collision>
   </link>
@@ -203,7 +203,7 @@
     <visual>
       <origin xyz="0 0 0" rpy="0 0 0" />
       <geometry>
-        <mesh filename="package://my_package/meshes/endeffector_link.STL" />
+        <mesh filename="package://arm_core/meshes/endeffector_link.STL" />
       </geometry>
       <material name="">
         <color rgba="0.31765 0.96863 1 1" />
@@ -212,7 +212,7 @@
     <collision>
       <origin xyz="0 0 0" rpy="0 0 0" />
       <geometry>
-        <mesh filename="package://my_package/meshes/endeffector_link.STL" />
+        <mesh filename="package://arm_core/meshes/endeffector_link.STL" />
       </geometry>
     </collision>
   </link>

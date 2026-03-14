@@ -1,6 +1,6 @@
 moveit_setup_assistant_config:
   urdf:
-    package: my_package
+    package: arm_core
     relative_path: urdf/arm.xacro
   srdf:
     relative_path: config/arm_v3.srdf
