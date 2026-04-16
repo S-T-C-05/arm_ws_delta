@@ -165,6 +165,9 @@ source install/setup.bash
 ros2 launch arm_moveit_config demo.launch.py
 ```
 
+> **¿Cuál es el comando para correr la simulación de MoveIt?**  
+> `ros2 launch arm_moveit_config demo.launch.py`
+
 ## 🔌 Protocolo serie STM32
 
 ### ROS 2 → STM32 (comando):
