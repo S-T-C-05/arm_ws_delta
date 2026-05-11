@@ -159,7 +159,7 @@ ros2 topic pub /joint_states_cmd sensor_msgs/msg/JointState \
 ros2 topic echo /hardware/joint_states
 ```
 
-### Simulación con MoveIt (sin hardware)
+### ¿Cuál es el comando para correr la simulación de MoveIt? (sin hardware)
 ```bash
 source install/setup.bash
 ros2 launch arm_moveit_config demo.launch.py
